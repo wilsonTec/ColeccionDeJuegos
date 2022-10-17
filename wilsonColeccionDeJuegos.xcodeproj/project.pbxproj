@@ -14,6 +14,7 @@
 		58F21A7328FDE14C001F37EB /* wilsonColeccionDeJuegos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 58F21A7128FDE14C001F37EB /* wilsonColeccionDeJuegos.xcdatamodeld */; };
 		58F21A7528FDE14D001F37EB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 58F21A7428FDE14D001F37EB /* Assets.xcassets */; };
 		58F21A7828FDE14D001F37EB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 58F21A7628FDE14D001F37EB /* LaunchScreen.storyboard */; };
+		58F21A8028FDED17001F37EB /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58F21A7F28FDED17001F37EB /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		58F21A7428FDE14D001F37EB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		58F21A7728FDE14D001F37EB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		58F21A7928FDE14D001F37EB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		58F21A7F28FDED17001F37EB /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				58F21A6A28FDE14C001F37EB /* SceneDelegate.swift */,
 				58F21A6C28FDE14C001F37EB /* ViewController.swift */,
 				58F21A6E28FDE14C001F37EB /* Main.storyboard */,
+				58F21A7F28FDED17001F37EB /* JuegosViewController.swift */,
 				58F21A7428FDE14D001F37EB /* Assets.xcassets */,
 				58F21A7628FDE14D001F37EB /* LaunchScreen.storyboard */,
 				58F21A7928FDE14D001F37EB /* Info.plist */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				58F21A8028FDED17001F37EB /* JuegosViewController.swift in Sources */,
 				58F21A6D28FDE14C001F37EB /* ViewController.swift in Sources */,
 				58F21A7328FDE14C001F37EB /* wilsonColeccionDeJuegos.xcdatamodeld in Sources */,
 				58F21A6928FDE14C001F37EB /* AppDelegate.swift in Sources */,
